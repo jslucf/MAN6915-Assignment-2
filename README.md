@@ -1,2 +1,2 @@
 # MAN6915-Assignment-2
-More Python exercises
+30 different programming assignments using Python.
